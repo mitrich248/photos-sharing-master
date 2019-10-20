@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245834389665",
+    "firebase_url": "https://field-trippa-a9d90.firebaseio.com",
+    "project_id": "field-trippa-a9d90",
+    "storage_bucket": "field-trippa-a9d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245834389665:android:26c0a7a0788cd9f497f8e0",
+        "android_client_info": {
+          "package_name": "com.google.codelab.photos.sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245834389665-tmine9bmo0rqfc5us4nkr37hrrp6sjeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.codelab.photos.sharing",
+            "certificate_hash": "a30587fd2fcb0b90436bbfeeb9c32b18751d879f"
+          }
+        },
+        {
+          "client_id": "245834389665-bhnghjoh7nm3ihtn7v1m3243hlvfhm1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhQSuxYS6x8ZSJ4nN2HLYcoQUBQHLylYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245834389665-bhnghjoh7nm3ihtn7v1m3243hlvfhm1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
